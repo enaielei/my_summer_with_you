@@ -1,0 +1,9 @@
+define translation.strings.thoughts = _("Thoughts")
+
+init python:
+    def CharacterThoughts(*args, **kwargs):
+        return Character(*args, **kwargs, what_italic=True)
+
+define mc_name = "Sam"
+define character.mc = Character("mc_name", dynamic=True)
+define character.mcth = CharacterThoughts("mc_name", dynamic=True)
