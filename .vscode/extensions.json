@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "renpy.language-renpy",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "charliermarsh.ruff",
+        "ms-python.python"
     ]
 }
