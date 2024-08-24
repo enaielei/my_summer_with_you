@@ -1,0 +1,1506 @@
+{
+    "76eee66a": {
+        "text": "Self-voicing disabled.",
+        "crowdinContext": "A standard string."
+    },
+    "3ea6814a": {
+        "text": "Clipboard voicing enabled. ",
+        "crowdinContext": "A standard string."
+    },
+    "35b31d5e": {
+        "text": "Self-voicing enabled. ",
+        "crowdinContext": "A standard string."
+    },
+    "3904d2b5": {
+        "text": "bar",
+        "crowdinContext": "A standard string."
+    },
+    "f96e7897": {
+        "text": "selected",
+        "crowdinContext": "A standard string."
+    },
+    "fc4c34b6": {
+        "text": "viewport",
+        "crowdinContext": "A standard string."
+    },
+    "90f2dd72": {
+        "text": "horizontal scroll",
+        "crowdinContext": "A standard string."
+    },
+    "289464da": {
+        "text": "vertical scroll",
+        "crowdinContext": "A standard string."
+    },
+    "8221e6f4": {
+        "text": "activate",
+        "crowdinContext": "A standard string."
+    },
+    "1f6ed6ce": {
+        "text": "deactivate",
+        "crowdinContext": "A standard string."
+    },
+    "224e24f6": {
+        "text": "increase",
+        "crowdinContext": "A standard string."
+    },
+    "29957b82": {
+        "text": "decrease",
+        "crowdinContext": "A standard string."
+    },
+    "84235821": {
+        "text": "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars.",
+        "crowdinContext": "A standard string."
+    },
+    "9f049928": {
+        "text": "Font Override",
+        "crowdinContext": "A standard string."
+    },
+    "f3126168": {
+        "text": "Default",
+        "crowdinContext": "A standard string."
+    },
+    "f4443569": {
+        "text": "DejaVu Sans",
+        "crowdinContext": "A standard string."
+    },
+    "b1c2c2d4": {
+        "text": "Opendyslexic",
+        "crowdinContext": "A standard string."
+    },
+    "0a5b73c4": {
+        "text": "Text Size Scaling",
+        "crowdinContext": "A standard string."
+    },
+    "62164747": {
+        "text": "Reset",
+        "crowdinContext": "A standard string."
+    },
+    "c2fb5a08": {
+        "text": "Line Spacing Scaling",
+        "crowdinContext": "A standard string."
+    },
+    "0237344d": {
+        "text": "High Contrast Text",
+        "crowdinContext": "A standard string."
+    },
+    "20362b93": {
+        "text": "Enable",
+        "crowdinContext": "A standard string."
+    },
+    "00daf919": {
+        "text": "Disable",
+        "crowdinContext": "A standard string."
+    },
+    "bb97695d": {
+        "text": "Self-Voicing",
+        "crowdinContext": "A standard string."
+    },
+    "36d847b2": {
+        "text": "Self-voicing support is limited when using a touch screen.",
+        "crowdinContext": "A standard string."
+    },
+    "d22c1eea": {
+        "text": "Off",
+        "crowdinContext": "A standard string."
+    },
+    "f5e3c80f": {
+        "text": "Text-to-speech",
+        "crowdinContext": "A standard string."
+    },
+    "6b1c3e29": {
+        "text": "Clipboard",
+        "crowdinContext": "A standard string."
+    },
+    "2ae5bdc5": {
+        "text": "Debug",
+        "crowdinContext": "A standard string."
+    },
+    "9948f83d": {
+        "text": "Voice Volume",
+        "crowdinContext": "A standard string."
+    },
+    "0781a383": {
+        "text": "Self-Voicing Volume Drop",
+        "crowdinContext": "A standard string."
+    },
+    "60ff11c7": {
+        "text": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.",
+        "crowdinContext": "A standard string."
+    },
+    "27e99412": {
+        "text": "Return",
+        "crowdinContext": "A standard string."
+    },
+    "dae267e3": {
+        "text": "{#weekday}Monday",
+        "crowdinContext": "A standard string."
+    },
+    "92b8c4b5": {
+        "text": "{#weekday}Tuesday",
+        "crowdinContext": "A standard string."
+    },
+    "2b4c6929": {
+        "text": "{#weekday}Wednesday",
+        "crowdinContext": "A standard string."
+    },
+    "1eefb644": {
+        "text": "{#weekday}Thursday",
+        "crowdinContext": "A standard string."
+    },
+    "7cbf3e87": {
+        "text": "{#weekday}Friday",
+        "crowdinContext": "A standard string."
+    },
+    "37d7493c": {
+        "text": "{#weekday}Saturday",
+        "crowdinContext": "A standard string."
+    },
+    "4293e17d": {
+        "text": "{#weekday}Sunday",
+        "crowdinContext": "A standard string."
+    },
+    "85283b21": {
+        "text": "{#weekday_short}Mon",
+        "crowdinContext": "A standard string."
+    },
+    "3aca3f15": {
+        "text": "{#weekday_short}Tue",
+        "crowdinContext": "A standard string."
+    },
+    "2a5b88cd": {
+        "text": "{#weekday_short}Wed",
+        "crowdinContext": "A standard string."
+    },
+    "8465cad9": {
+        "text": "{#weekday_short}Thu",
+        "crowdinContext": "A standard string."
+    },
+    "43c8a9c0": {
+        "text": "{#weekday_short}Fri",
+        "crowdinContext": "A standard string."
+    },
+    "89d79c1c": {
+        "text": "{#weekday_short}Sat",
+        "crowdinContext": "A standard string."
+    },
+    "aa21749d": {
+        "text": "{#weekday_short}Sun",
+        "crowdinContext": "A standard string."
+    },
+    "3d357e56": {
+        "text": "{#month}January",
+        "crowdinContext": "A standard string."
+    },
+    "a9ae4dbc": {
+        "text": "{#month}February",
+        "crowdinContext": "A standard string."
+    },
+    "c3c29acc": {
+        "text": "{#month}March",
+        "crowdinContext": "A standard string."
+    },
+    "a5ff78c1": {
+        "text": "{#month}April",
+        "crowdinContext": "A standard string."
+    },
+    "bbe3cffe": {
+        "text": "{#month}May",
+        "crowdinContext": "A standard string."
+    },
+    "57cf6cbb": {
+        "text": "{#month}June",
+        "crowdinContext": "A standard string."
+    },
+    "af26d75b": {
+        "text": "{#month}July",
+        "crowdinContext": "A standard string."
+    },
+    "06ff2a13": {
+        "text": "{#month}August",
+        "crowdinContext": "A standard string."
+    },
+    "d8888b6c": {
+        "text": "{#month}September",
+        "crowdinContext": "A standard string."
+    },
+    "7cc8aacb": {
+        "text": "{#month}October",
+        "crowdinContext": "A standard string."
+    },
+    "54743b87": {
+        "text": "{#month}November",
+        "crowdinContext": "A standard string."
+    },
+    "9d823bed": {
+        "text": "{#month}December",
+        "crowdinContext": "A standard string."
+    },
+    "b707174c": {
+        "text": "{#month_short}Jan",
+        "crowdinContext": "A standard string."
+    },
+    "dd21df5e": {
+        "text": "{#month_short}Feb",
+        "crowdinContext": "A standard string."
+    },
+    "cccef745": {
+        "text": "{#month_short}Mar",
+        "crowdinContext": "A standard string."
+    },
+    "4312c59c": {
+        "text": "{#month_short}Apr",
+        "crowdinContext": "A standard string."
+    },
+    "d0944549": {
+        "text": "{#month_short}May",
+        "crowdinContext": "A standard string."
+    },
+    "5b7a3f38": {
+        "text": "{#month_short}Jun",
+        "crowdinContext": "A standard string."
+    },
+    "5b1cdcdb": {
+        "text": "{#month_short}Jul",
+        "crowdinContext": "A standard string."
+    },
+    "2309b156": {
+        "text": "{#month_short}Aug",
+        "crowdinContext": "A standard string."
+    },
+    "4c118049": {
+        "text": "{#month_short}Sep",
+        "crowdinContext": "A standard string."
+    },
+    "36f522ac": {
+        "text": "{#month_short}Oct",
+        "crowdinContext": "A standard string."
+    },
+    "6a7352eb": {
+        "text": "{#month_short}Nov",
+        "crowdinContext": "A standard string."
+    },
+    "69fed5cf": {
+        "text": "{#month_short}Dec",
+        "crowdinContext": "A standard string."
+    },
+    "4fba7486": {
+        "text": "%b %d, %H:%M",
+        "crowdinContext": "A standard string."
+    },
+    "f5064369": {
+        "text": "Save slot %s: [text]",
+        "crowdinContext": "A standard string."
+    },
+    "3e288bf3": {
+        "text": "Load slot %s: [text]",
+        "crowdinContext": "A standard string."
+    },
+    "254b4595": {
+        "text": "Delete slot [text]",
+        "crowdinContext": "A standard string."
+    },
+    "1b094eab": {
+        "text": "File page auto",
+        "crowdinContext": "A standard string."
+    },
+    "e6bd0bd0": {
+        "text": "File page quick",
+        "crowdinContext": "A standard string."
+    },
+    "a65115ed": {
+        "text": "File page [text]",
+        "crowdinContext": "A standard string."
+    },
+    "9476416c": {
+        "text": "Page {}",
+        "crowdinContext": "A standard string."
+    },
+    "7e556102": {
+        "text": "Automatic saves",
+        "crowdinContext": "A standard string."
+    },
+    "25e6812d": {
+        "text": "Quick saves",
+        "crowdinContext": "A standard string."
+    },
+    "0b1363b9": {
+        "text": "Next file page.",
+        "crowdinContext": "A standard string."
+    },
+    "7efdd617": {
+        "text": "Previous file page.",
+        "crowdinContext": "A standard string."
+    },
+    "991e9609": {
+        "text": "Quick save complete.",
+        "crowdinContext": "A standard string."
+    },
+    "64e21774": {
+        "text": "Quick save.",
+        "crowdinContext": "A standard string."
+    },
+    "609baed5": {
+        "text": "Quick load.",
+        "crowdinContext": "A standard string."
+    },
+    "18a439be": {
+        "text": "Language [text]",
+        "crowdinContext": "A standard string."
+    },
+    "b5f37e63": {
+        "text": "Open [text] directory.",
+        "crowdinContext": "A standard string."
+    },
+    "ac411995": {
+        "text": "The interactive director is not enabled here.",
+        "crowdinContext": "A standard string."
+    },
+    "a898e64c": {
+        "text": "\u2b06",
+        "crowdinContext": "A standard string."
+    },
+    "8124b6d3": {
+        "text": "\u2b07",
+        "crowdinContext": "A standard string."
+    },
+    "72e92acc": {
+        "text": "Done",
+        "crowdinContext": "A standard string."
+    },
+    "e65168f0": {
+        "text": "(statement)",
+        "crowdinContext": "A standard string."
+    },
+    "8b9150ab": {
+        "text": "(tag)",
+        "crowdinContext": "A standard string."
+    },
+    "2062f097": {
+        "text": "(attributes)",
+        "crowdinContext": "A standard string."
+    },
+    "759349d9": {
+        "text": "(transform)",
+        "crowdinContext": "A standard string."
+    },
+    "0348967b": {
+        "text": "(transition)",
+        "crowdinContext": "A standard string."
+    },
+    "d3ed5779": {
+        "text": "(channel)",
+        "crowdinContext": "A standard string."
+    },
+    "4f7fb3bd": {
+        "text": "(filename)",
+        "crowdinContext": "A standard string."
+    },
+    "f32bc1f9": {
+        "text": "Change",
+        "crowdinContext": "A standard string."
+    },
+    "00a78502": {
+        "text": "Add",
+        "crowdinContext": "A standard string."
+    },
+    "69e29ac5": {
+        "text": "Cancel",
+        "crowdinContext": "A standard string."
+    },
+    "18072bcf": {
+        "text": "Remove",
+        "crowdinContext": "A standard string."
+    },
+    "59fa2dce": {
+        "text": "Statement:",
+        "crowdinContext": "A standard string."
+    },
+    "9a580737": {
+        "text": "Tag:",
+        "crowdinContext": "A standard string."
+    },
+    "ef82ef7c": {
+        "text": "Attributes:",
+        "crowdinContext": "A standard string."
+    },
+    "f93d7d04": {
+        "text": "Click to toggle attribute, right click to toggle negative attribute.",
+        "crowdinContext": "A standard string."
+    },
+    "9b806a94": {
+        "text": "Transforms:",
+        "crowdinContext": "A standard string."
+    },
+    "3981b011": {
+        "text": "Click to set transform, right click to add to transform list.",
+        "crowdinContext": "A standard string."
+    },
+    "aebaa92b": {
+        "text": "Customize director.transforms to add more transforms.",
+        "crowdinContext": "A standard string."
+    },
+    "22267902": {
+        "text": "Behind:",
+        "crowdinContext": "A standard string."
+    },
+    "76776125": {
+        "text": "Click to set, right click to add to behind list.",
+        "crowdinContext": "A standard string."
+    },
+    "8bc522ed": {
+        "text": "Transition:",
+        "crowdinContext": "A standard string."
+    },
+    "7c7d1c1a": {
+        "text": "Click to set.",
+        "crowdinContext": "A standard string."
+    },
+    "90c2528f": {
+        "text": "Customize director.transitions to add more transitions.",
+        "crowdinContext": "A standard string."
+    },
+    "424b12f5": {
+        "text": "Channel:",
+        "crowdinContext": "A standard string."
+    },
+    "ab20d3bc": {
+        "text": "Customize director.audio_channels to add more channels.",
+        "crowdinContext": "A standard string."
+    },
+    "e8db8a30": {
+        "text": "Audio Filename:",
+        "crowdinContext": "A standard string."
+    },
+    "45fa0548": {
+        "text": "Are you sure?",
+        "crowdinContext": "A standard string."
+    },
+    "2df1dea0": {
+        "text": "Are you sure you want to delete this save?",
+        "crowdinContext": "A standard string."
+    },
+    "89d3eb96": {
+        "text": "Are you sure you want to overwrite your save?",
+        "crowdinContext": "A standard string."
+    },
+    "00cb3dd4": {
+        "text": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
+        "crowdinContext": "A standard string."
+    },
+    "44ce555b": {
+        "text": "Are you sure you want to quit?",
+        "crowdinContext": "A standard string."
+    },
+    "11602c82": {
+        "text": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress.",
+        "crowdinContext": "A standard string."
+    },
+    "52be4ff7": {
+        "text": "Are you sure you want to continue where you left off?",
+        "crowdinContext": "A standard string."
+    },
+    "e5df03db": {
+        "text": "Are you sure you want to end the replay?",
+        "crowdinContext": "A standard string."
+    },
+    "b893a413": {
+        "text": "Are you sure you want to begin skipping?",
+        "crowdinContext": "A standard string."
+    },
+    "c2b69495": {
+        "text": "Are you sure you want to skip to the next choice?",
+        "crowdinContext": "A standard string."
+    },
+    "e773da03": {
+        "text": "Are you sure you want to skip unseen dialogue to the next choice?",
+        "crowdinContext": "A standard string."
+    },
+    "3d1910b5": {
+        "text": "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?",
+        "crowdinContext": "A standard string."
+    },
+    "ef176adb": {
+        "text": "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user.",
+        "crowdinContext": "A standard string."
+    },
+    "441c2348": {
+        "text": "Failed to save screenshot as %s.",
+        "crowdinContext": "A standard string."
+    },
+    "70455da2": {
+        "text": "Saved screenshot as %s.",
+        "crowdinContext": "A standard string."
+    },
+    "2a6fcd40": {
+        "text": "Skip Mode",
+        "crowdinContext": "A standard string."
+    },
+    "5b7b58ce": {
+        "text": "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.",
+        "crowdinContext": "A standard string."
+    },
+    "2d9fb3cc": {
+        "text": "display",
+        "crowdinContext": "A standard string."
+    },
+    "5f6000a8": {
+        "text": "transitions",
+        "crowdinContext": "A standard string."
+    },
+    "48120f09": {
+        "text": "skip transitions",
+        "crowdinContext": "A standard string."
+    },
+    "d24ed93c": {
+        "text": "video sprites",
+        "crowdinContext": "A standard string."
+    },
+    "35198aad": {
+        "text": "show empty window",
+        "crowdinContext": "A standard string."
+    },
+    "e6f0bf62": {
+        "text": "text speed",
+        "crowdinContext": "A standard string."
+    },
+    "5ee60b72": {
+        "text": "joystick",
+        "crowdinContext": "A standard string."
+    },
+    "fc3d8edb": {
+        "text": "joystick...",
+        "crowdinContext": "A standard string."
+    },
+    "826f07a0": {
+        "text": "skip",
+        "crowdinContext": "A standard string."
+    },
+    "ead737c9": {
+        "text": "skip unseen [text]",
+        "crowdinContext": "A standard string."
+    },
+    "765f0c1a": {
+        "text": "skip unseen text",
+        "crowdinContext": "A standard string."
+    },
+    "cc025a7d": {
+        "text": "begin skipping",
+        "crowdinContext": "A standard string."
+    },
+    "94cd434a": {
+        "text": "after choices",
+        "crowdinContext": "A standard string."
+    },
+    "ece06964": {
+        "text": "skip after choices",
+        "crowdinContext": "A standard string."
+    },
+    "b804fe9a": {
+        "text": "auto-forward time",
+        "crowdinContext": "A standard string."
+    },
+    "e3d15556": {
+        "text": "auto-forward",
+        "crowdinContext": "A standard string."
+    },
+    "064401a2": {
+        "text": "Auto forward",
+        "crowdinContext": "A standard string."
+    },
+    "96d58112": {
+        "text": "auto-forward after click",
+        "crowdinContext": "A standard string."
+    },
+    "315f0309": {
+        "text": "automatic move",
+        "crowdinContext": "A standard string."
+    },
+    "10cab540": {
+        "text": "wait for voice",
+        "crowdinContext": "A standard string."
+    },
+    "568a63a3": {
+        "text": "voice sustain",
+        "crowdinContext": "A standard string."
+    },
+    "b6238154": {
+        "text": "self voicing",
+        "crowdinContext": "A standard string."
+    },
+    "d823c32c": {
+        "text": "self voicing enable",
+        "crowdinContext": "A standard string."
+    },
+    "aacff57d": {
+        "text": "self voicing disable",
+        "crowdinContext": "A standard string."
+    },
+    "812639a3": {
+        "text": "self voicing volume drop",
+        "crowdinContext": "A standard string."
+    },
+    "f5925204": {
+        "text": "clipboard voicing",
+        "crowdinContext": "A standard string."
+    },
+    "0197cd0e": {
+        "text": "clipboard voicing enable",
+        "crowdinContext": "A standard string."
+    },
+    "e4c57fe7": {
+        "text": "clipboard voicing disable",
+        "crowdinContext": "A standard string."
+    },
+    "3c647e27": {
+        "text": "debug voicing",
+        "crowdinContext": "A standard string."
+    },
+    "c8dfed38": {
+        "text": "debug voicing enable",
+        "crowdinContext": "A standard string."
+    },
+    "bac97c06": {
+        "text": "debug voicing disable",
+        "crowdinContext": "A standard string."
+    },
+    "b8139c62": {
+        "text": "emphasize audio",
+        "crowdinContext": "A standard string."
+    },
+    "c9110aba": {
+        "text": "rollback side",
+        "crowdinContext": "A standard string."
+    },
+    "175102d1": {
+        "text": "gl powersave",
+        "crowdinContext": "A standard string."
+    },
+    "2c5ce223": {
+        "text": "gl framerate",
+        "crowdinContext": "A standard string."
+    },
+    "a03c89f0": {
+        "text": "gl tearing",
+        "crowdinContext": "A standard string."
+    },
+    "e48101af": {
+        "text": "font transform",
+        "crowdinContext": "A standard string."
+    },
+    "4163fa9f": {
+        "text": "font size",
+        "crowdinContext": "A standard string."
+    },
+    "62ec4878": {
+        "text": "font line spacing",
+        "crowdinContext": "A standard string."
+    },
+    "0c1e8598": {
+        "text": "system cursor",
+        "crowdinContext": "A standard string."
+    },
+    "35854f85": {
+        "text": "renderer menu",
+        "crowdinContext": "A standard string."
+    },
+    "a1076129": {
+        "text": "accessibility menu",
+        "crowdinContext": "A standard string."
+    },
+    "f3dfcb90": {
+        "text": "high contrast text",
+        "crowdinContext": "A standard string."
+    },
+    "31f59418": {
+        "text": "audio when minimized",
+        "crowdinContext": "A standard string."
+    },
+    "67e5b103": {
+        "text": "audio when unfocused",
+        "crowdinContext": "A standard string."
+    },
+    "22df2d71": {
+        "text": "web cache preload",
+        "crowdinContext": "A standard string."
+    },
+    "c4b597cf": {
+        "text": "voice after game menu",
+        "crowdinContext": "A standard string."
+    },
+    "b3c8fc49": {
+        "text": "restore window position",
+        "crowdinContext": "A standard string."
+    },
+    "4caa7cf6": {
+        "text": "reset",
+        "crowdinContext": "A standard string."
+    },
+    "15d05543": {
+        "text": "main volume",
+        "crowdinContext": "A standard string."
+    },
+    "1f0802b8": {
+        "text": "music volume",
+        "crowdinContext": "A standard string."
+    },
+    "0eab6433": {
+        "text": "sound volume",
+        "crowdinContext": "A standard string."
+    },
+    "62aeb6d4": {
+        "text": "voice volume",
+        "crowdinContext": "A standard string."
+    },
+    "6eacc17b": {
+        "text": "mute main",
+        "crowdinContext": "A standard string."
+    },
+    "27c8513e": {
+        "text": "mute music",
+        "crowdinContext": "A standard string."
+    },
+    "5a23c60f": {
+        "text": "mute sound",
+        "crowdinContext": "A standard string."
+    },
+    "91936028": {
+        "text": "mute voice",
+        "crowdinContext": "A standard string."
+    },
+    "6711d892": {
+        "text": "mute all",
+        "crowdinContext": "A standard string."
+    },
+    "419940a5": {
+        "text": "Clipboard voicing enabled. Press 'shift+C' to disable.",
+        "crowdinContext": "A standard string."
+    },
+    "c30b1b34": {
+        "text": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable.",
+        "crowdinContext": "A standard string."
+    },
+    "ba85dec6": {
+        "text": "Self-voicing enabled. Press 'v' to disable.",
+        "crowdinContext": "A standard string."
+    },
+    "4b97ef9c": {
+        "text": "Speech Bubble Editor",
+        "crowdinContext": "A standard string."
+    },
+    "baf0748a": {
+        "text": "(hide)",
+        "crowdinContext": "A standard string."
+    },
+    "f8a0681a": {
+        "text": "(clear retained bubbles)",
+        "crowdinContext": "A standard string."
+    },
+    "43bb5160": {
+        "text": "Sync downloaded.",
+        "crowdinContext": "A standard string."
+    },
+    "cce16a00": {
+        "text": "Could not connect to the Ren'Py Sync server.",
+        "crowdinContext": "A standard string."
+    },
+    "180831c2": {
+        "text": "The Ren'Py Sync server timed out.",
+        "crowdinContext": "A standard string."
+    },
+    "dfa301fc": {
+        "text": "An unknown error occurred while connecting to the Ren'Py Sync server.",
+        "crowdinContext": "A standard string."
+    },
+    "94460522": {
+        "text": "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out.",
+        "crowdinContext": "A standard string."
+    },
+    "af08c60a": {
+        "text": "Please enter the sync ID you generated.\\nNever enter a sync ID you didn't create yourself.",
+        "crowdinContext": "A standard string."
+    },
+    "500b9b91": {
+        "text": "The sync ID is not in the correct format.",
+        "crowdinContext": "A standard string."
+    },
+    "de72a37c": {
+        "text": "The sync could not be decrypted.",
+        "crowdinContext": "A standard string."
+    },
+    "400772a9": {
+        "text": "The sync belongs to a different game.",
+        "crowdinContext": "A standard string."
+    },
+    "912f3752": {
+        "text": "The sync contains a file with an invalid name.",
+        "crowdinContext": "A standard string."
+    },
+    "bc6ae304": {
+        "text": "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\\nDo you want to continue?",
+        "crowdinContext": "A standard string."
+    },
+    "f9fb6e1d": {
+        "text": "Yes",
+        "crowdinContext": "A standard string."
+    },
+    "21562b2e": {
+        "text": "No",
+        "crowdinContext": "A standard string."
+    },
+    "20281a9e": {
+        "text": "Enter Sync ID",
+        "crowdinContext": "A standard string."
+    },
+    "3a128cb3": {
+        "text": "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.",
+        "crowdinContext": "A standard string."
+    },
+    "79397395": {
+        "text": "Sync Success",
+        "crowdinContext": "A standard string."
+    },
+    "1de59e8a": {
+        "text": "The Sync ID is:",
+        "crowdinContext": "A standard string."
+    },
+    "77d6d671": {
+        "text": "You can use this ID to download your save on another device.\\nThis sync will expire in an hour.\\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}.",
+        "crowdinContext": "A standard string."
+    },
+    "0e4afb96": {
+        "text": "Continue",
+        "crowdinContext": "A standard string."
+    },
+    "e723cf78": {
+        "text": "Sync Error",
+        "crowdinContext": "A standard string."
+    },
+    "84561352": {
+        "text": "Contacting App Store\\nPlease Wait...",
+        "crowdinContext": "A standard string."
+    },
+    "ff060a33": {
+        "text": "No update methods found.",
+        "crowdinContext": "A standard string."
+    },
+    "a8a9a584": {
+        "text": "Could not download file list: ",
+        "crowdinContext": "A standard string."
+    },
+    "d5f2bd7a": {
+        "text": "File list digest does not match.",
+        "crowdinContext": "A standard string."
+    },
+    "b2b6860f": {
+        "text": "An error is being simulated.",
+        "crowdinContext": "A standard string."
+    },
+    "1d673d7e": {
+        "text": "Either this project does not support updating, or the update status file was deleted.",
+        "crowdinContext": "A standard string."
+    },
+    "7f9fba38": {
+        "text": "This account does not have permission to perform an update.",
+        "crowdinContext": "A standard string."
+    },
+    "a0df693d": {
+        "text": "This account does not have permission to write the update log.",
+        "crowdinContext": "A standard string."
+    },
+    "53568863": {
+        "text": "Could not verify update signature.",
+        "crowdinContext": "A standard string."
+    },
+    "f1366995": {
+        "text": "The update file was not downloaded.",
+        "crowdinContext": "A standard string."
+    },
+    "386a88b8": {
+        "text": "The update file does not have the correct digest - it may have been corrupted.",
+        "crowdinContext": "A standard string."
+    },
+    "d355d7bd": {
+        "text": "While unpacking {}, unknown type {}.",
+        "crowdinContext": "A standard string."
+    },
+    "58e7215d": {
+        "text": "Updater",
+        "crowdinContext": "A standard string."
+    },
+    "9609b9c0": {
+        "text": "An error has occured:",
+        "crowdinContext": "A standard string."
+    },
+    "31f8b5bc": {
+        "text": "Checking for updates.",
+        "crowdinContext": "A standard string."
+    },
+    "11c5d7b8": {
+        "text": "This program is up to date.",
+        "crowdinContext": "A standard string."
+    },
+    "d6bf567e": {
+        "text": "[u.version] is available. Do you want to install it?",
+        "crowdinContext": "A standard string."
+    },
+    "673696be": {
+        "text": "Preparing to download the updates.",
+        "crowdinContext": "A standard string."
+    },
+    "a1ac1cb0": {
+        "text": "Downloading the updates.",
+        "crowdinContext": "A standard string."
+    },
+    "d6cab718": {
+        "text": "Unpacking the updates.",
+        "crowdinContext": "A standard string."
+    },
+    "36307738": {
+        "text": "Finishing up.",
+        "crowdinContext": "A standard string."
+    },
+    "0d1ac7ab": {
+        "text": "The updates have been installed. The program will restart.",
+        "crowdinContext": "A standard string."
+    },
+    "6a4e83aa": {
+        "text": "The updates have been installed.",
+        "crowdinContext": "A standard string."
+    },
+    "2ae39cb0": {
+        "text": "The updates were cancelled.",
+        "crowdinContext": "A standard string."
+    },
+    "4ede14b6": {
+        "text": "Proceed",
+        "crowdinContext": "A standard string."
+    },
+    "49ce205b": {
+        "text": "Preparing to download the game data.",
+        "crowdinContext": "A standard string."
+    },
+    "17be8e61": {
+        "text": "Downloading the game data.",
+        "crowdinContext": "A standard string."
+    },
+    "6eb383e6": {
+        "text": "The game data has been downloaded.",
+        "crowdinContext": "A standard string."
+    },
+    "119b6f80": {
+        "text": "An error occured when trying to download game data:",
+        "crowdinContext": "A standard string."
+    },
+    "9b201ac0": {
+        "text": "This game cannot be run until the game data has been downloaded.",
+        "crowdinContext": "A standard string."
+    },
+    "a6eea1bd": {
+        "text": "Retry",
+        "crowdinContext": "A standard string."
+    },
+    "9603267e": {
+        "text": "Fullscreen",
+        "crowdinContext": "A standard string."
+    },
+    "cd29a059": {
+        "text": "Image [index] of [count] locked.",
+        "crowdinContext": "A standard string."
+    },
+    "9955b27b": {
+        "text": "prev",
+        "crowdinContext": "A standard string."
+    },
+    "1fd04c80": {
+        "text": "next",
+        "crowdinContext": "A standard string."
+    },
+    "2eab0f09": {
+        "text": "slideshow",
+        "crowdinContext": "A standard string."
+    },
+    "f56e388f": {
+        "text": "return",
+        "crowdinContext": "A standard string."
+    },
+    "b9a4acb2": {
+        "text": "Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "aa8c0d57": {
+        "text": "Automatically Choose",
+        "crowdinContext": "A standard string."
+    },
+    "e616e965": {
+        "text": "Force GL Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "c74c47cd": {
+        "text": "Force ANGLE Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "ccbaec7c": {
+        "text": "Force GLES Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "31ca41d7": {
+        "text": "Force GL2 Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "0a3a19bc": {
+        "text": "Force ANGLE2 Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "8a46acfe": {
+        "text": "Force GLES2 Renderer",
+        "crowdinContext": "A standard string."
+    },
+    "95d7846d": {
+        "text": "Gamepad",
+        "crowdinContext": "A standard string."
+    },
+    "cd2978ea": {
+        "text": "Enable (No Blocklist)",
+        "crowdinContext": "A standard string."
+    },
+    "60de6cc5": {
+        "text": "Calibrate",
+        "crowdinContext": "A standard string."
+    },
+    "21523bdf": {
+        "text": "Powersave",
+        "crowdinContext": "A standard string."
+    },
+    "cf086ec0": {
+        "text": "Framerate",
+        "crowdinContext": "A standard string."
+    },
+    "931fe688": {
+        "text": "Screen",
+        "crowdinContext": "A standard string."
+    },
+    "f1436ce9": {
+        "text": "60",
+        "crowdinContext": "A standard string."
+    },
+    "a8c12fa8": {
+        "text": "30",
+        "crowdinContext": "A standard string."
+    },
+    "a6492196": {
+        "text": "Tearing",
+        "crowdinContext": "A standard string."
+    },
+    "78ad0478": {
+        "text": "Changes will take effect the next time this program is run.",
+        "crowdinContext": "A standard string."
+    },
+    "2035c5f2": {
+        "text": "Quit",
+        "crowdinContext": "A standard string."
+    },
+    "83d6b034": {
+        "text": "Performance Warning",
+        "crowdinContext": "A standard string."
+    },
+    "d331bff1": {
+        "text": "This computer is using software rendering.",
+        "crowdinContext": "A standard string."
+    },
+    "3fc80307": {
+        "text": "This game requires use of GL2 that can't be initialised.",
+        "crowdinContext": "A standard string."
+    },
+    "92fd337f": {
+        "text": "This computer has a problem displaying graphics: [problem].",
+        "crowdinContext": "A standard string."
+    },
+    "c633305f": {
+        "text": "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display.",
+        "crowdinContext": "A standard string."
+    },
+    "53925988": {
+        "text": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.",
+        "crowdinContext": "A standard string."
+    },
+    "a159776f": {
+        "text": "More details on how to fix this can be found in the {a=[url]}documentation{/a}.",
+        "crowdinContext": "A standard string."
+    },
+    "48e138ae": {
+        "text": "Continue, Show this warning again",
+        "crowdinContext": "A standard string."
+    },
+    "1a6e4efb": {
+        "text": "Continue, Don't show warning again",
+        "crowdinContext": "A standard string."
+    },
+    "eaccf3e2": {
+        "text": "Change render options",
+        "crowdinContext": "A standard string."
+    },
+    "528f6037": {
+        "text": "Select Gamepad to Calibrate",
+        "crowdinContext": "A standard string."
+    },
+    "8312353e": {
+        "text": "No Gamepads Available",
+        "crowdinContext": "A standard string."
+    },
+    "264619a0": {
+        "text": "Calibrating [name] ([i]/[total])",
+        "crowdinContext": "A standard string."
+    },
+    "b6c1fc3b": {
+        "text": "Press or move the '[control!s]' [kind].",
+        "crowdinContext": "A standard string."
+    },
+    "d53b4e8a": {
+        "text": "Skip (A)",
+        "crowdinContext": "A standard string."
+    },
+    "9bd3ca49": {
+        "text": "Back (B)",
+        "crowdinContext": "A standard string."
+    },
+    "a3770482": {
+        "text": "Open",
+        "crowdinContext": "A standard string."
+    },
+    "ff192ae0": {
+        "text": "Opens the traceback.txt file in a text editor.",
+        "crowdinContext": "A standard string."
+    },
+    "f9589c16": {
+        "text": "Copy BBCode",
+        "crowdinContext": "A standard string."
+    },
+    "4dca2ca7": {
+        "text": "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.",
+        "crowdinContext": "A standard string."
+    },
+    "3a1cab0c": {
+        "text": "Copy Markdown",
+        "crowdinContext": "A standard string."
+    },
+    "3d3e1898": {
+        "text": "Copies the traceback.txt file to the clipboard as Markdown for Discord.",
+        "crowdinContext": "A standard string."
+    },
+    "cd1f3ca2": {
+        "text": "An exception has occurred.",
+        "crowdinContext": "A standard string."
+    },
+    "c75936d1": {
+        "text": "Rollback",
+        "crowdinContext": "A standard string."
+    },
+    "91757cd9": {
+        "text": "Attempts a roll back to a prior time, allowing you to save or choose a different choice.",
+        "crowdinContext": "A standard string."
+    },
+    "ec06ec60": {
+        "text": "Ignore",
+        "crowdinContext": "A standard string."
+    },
+    "0cac82ac": {
+        "text": "Ignores the exception, allowing you to continue.",
+        "crowdinContext": "A standard string."
+    },
+    "16d58700": {
+        "text": "Ignores the exception, allowing you to continue. This often leads to additional errors.",
+        "crowdinContext": "A standard string."
+    },
+    "b0e88bde": {
+        "text": "Reload",
+        "crowdinContext": "A standard string."
+    },
+    "fb5e3a47": {
+        "text": "Reloads the game from disk, saving and restoring game state if possible.",
+        "crowdinContext": "A standard string."
+    },
+    "7b222d6f": {
+        "text": "Console",
+        "crowdinContext": "A standard string."
+    },
+    "a6725a3f": {
+        "text": "Opens a console to allow debugging the problem.",
+        "crowdinContext": "A standard string."
+    },
+    "bde15b33": {
+        "text": "Quits the game.",
+        "crowdinContext": "A standard string."
+    },
+    "aeb0dfeb": {
+        "text": "Parsing the script failed.",
+        "crowdinContext": "A standard string."
+    },
+    "ad2ef8fd": {
+        "text": "Developer Menu",
+        "crowdinContext": "A standard string."
+    },
+    "437f51fc": {
+        "text": "Interactive Director (D)",
+        "crowdinContext": "A standard string."
+    },
+    "2b3ba4b5": {
+        "text": "Reload Game (Shift+R)",
+        "crowdinContext": "A standard string."
+    },
+    "533abf6c": {
+        "text": "Console (Shift+O)",
+        "crowdinContext": "A standard string."
+    },
+    "3e0f0eaf": {
+        "text": "Variable Viewer",
+        "crowdinContext": "A standard string."
+    },
+    "eade70bc": {
+        "text": "Persistent Viewer",
+        "crowdinContext": "A standard string."
+    },
+    "14c373cf": {
+        "text": "Image Location Picker",
+        "crowdinContext": "A standard string."
+    },
+    "2bf1bf28": {
+        "text": "Filename List",
+        "crowdinContext": "A standard string."
+    },
+    "eac790f9": {
+        "text": "Show Image Load Log (F4)",
+        "crowdinContext": "A standard string."
+    },
+    "0a3f6219": {
+        "text": "Hide Image Load Log (F4)",
+        "crowdinContext": "A standard string."
+    },
+    "a6732c5b": {
+        "text": "Image Attributes",
+        "crowdinContext": "A standard string."
+    },
+    "49046176": {
+        "text": "Show Translation Identifiers",
+        "crowdinContext": "A standard string."
+    },
+    "458a0350": {
+        "text": "Hide Translation Identifiers",
+        "crowdinContext": "A standard string."
+    },
+    "36f1b559": {
+        "text": "Speech Bubble Editor (Shift+B)",
+        "crowdinContext": "A standard string."
+    },
+    "c534ac57": {
+        "text": "Show Filename and Line",
+        "crowdinContext": "A standard string."
+    },
+    "f6f7ee66": {
+        "text": "Hide Filename and Line",
+        "crowdinContext": "A standard string."
+    },
+    "37273ff8": {
+        "text": "Layer [l]:",
+        "crowdinContext": "A standard string."
+    },
+    "0141d0b4": {
+        "text": "    [name] [attributes] (hidden)",
+        "crowdinContext": "A standard string."
+    },
+    "baa87cc7": {
+        "text": "    [name] [attributes]",
+        "crowdinContext": "A standard string."
+    },
+    "c55c7d21": {
+        "text": "Nothing to inspect.",
+        "crowdinContext": "A standard string."
+    },
+    "0eac05d5": {
+        "text": "Hide deleted",
+        "crowdinContext": "A standard string."
+    },
+    "24618e5f": {
+        "text": "Show deleted",
+        "crowdinContext": "A standard string."
+    },
+    "0af84aea": {
+        "text": "Rectangle copied to clipboard.",
+        "crowdinContext": "A standard string."
+    },
+    "1944c1b1": {
+        "text": "Position copied to clipboard.",
+        "crowdinContext": "A standard string."
+    },
+    "e70dc879": {
+        "text": "Rectangle: %r",
+        "crowdinContext": "A standard string."
+    },
+    "d084cf6d": {
+        "text": "Mouse position: %r",
+        "crowdinContext": "A standard string."
+    },
+    "7d3c04c5": {
+        "text": "Right-click or escape to quit.",
+        "crowdinContext": "A standard string."
+    },
+    "69236017": {
+        "text": "Type to filter: ",
+        "crowdinContext": "A standard string."
+    },
+    "e8df0ec1": {
+        "text": "Textures: [tex_count] ([tex_size_mb:.1f] MB)",
+        "crowdinContext": "A standard string."
+    },
+    "f03f6675": {
+        "text": "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)",
+        "crowdinContext": "A standard string."
+    },
+    "3150fcec": {
+        "text": "\u2714 ",
+        "crowdinContext": "A standard string."
+    },
+    "0c4c1fab": {
+        "text": "\u2718 ",
+        "crowdinContext": "A standard string."
+    },
+    "1eb8686a": {
+        "text": "\\n{color=#cfc}\u2714 predicted image (good){/color}\\n{color=#fcc}\u2718 unpredicted image (bad){/color}\\n{color=#fff}Drag to move.{/color}",
+        "crowdinContext": "A standard string."
+    },
+    "44c188b7": {
+        "text": "\\n{color=#fff}Copied to clipboard.{/color}",
+        "crowdinContext": "A standard string."
+    },
+    "d5e4d1ad": {
+        "text": "\\n{color=#fff}Click to copy.\\nDrag to move.{/color}",
+        "crowdinContext": "A standard string."
+    },
+    "bb9fe9c8": {
+        "text": "Click to open in editor.",
+        "crowdinContext": "A standard string."
+    },
+    "30af55d9": {
+        "text": "Displayable Inspector",
+        "crowdinContext": "A standard string."
+    },
+    "a22d52f7": {
+        "text": "Size",
+        "crowdinContext": "A standard string."
+    },
+    "ef870229": {
+        "text": "Style",
+        "crowdinContext": "A standard string."
+    },
+    "120a3c8e": {
+        "text": "Location",
+        "crowdinContext": "A standard string."
+    },
+    "a444bbd7": {
+        "text": "Inspecting Styles of [displayable_name!q]",
+        "crowdinContext": "A standard string."
+    },
+    "b2e0cc91": {
+        "text": "displayable:",
+        "crowdinContext": "A standard string."
+    },
+    "a0e84f1c": {
+        "text": "        (no properties affect the displayable)",
+        "crowdinContext": "A standard string."
+    },
+    "55061cd8": {
+        "text": "        (default properties omitted)",
+        "crowdinContext": "A standard string."
+    },
+    "8918553a": {
+        "text": "<repr() failed>",
+        "crowdinContext": "A standard string."
+    },
+    "7ac6614a": {
+        "text": "Press <esc> to exit console. Type help for help.\\n",
+        "crowdinContext": "A standard string."
+    },
+    "e345ce79": {
+        "text": "Ren'Py script enabled.",
+        "crowdinContext": "A standard string."
+    },
+    "3d54d941": {
+        "text": "Ren'Py script disabled.",
+        "crowdinContext": "A standard string."
+    },
+    "e600789a": {
+        "text": "help: show this help\\n help <expr>: show signature and documentation of <expr>",
+        "crowdinContext": "A standard string."
+    },
+    "7eaa708b": {
+        "text": "Help may display undocumented functions. Please check that the function or\\nclass you want to use is documented.\\n\\n",
+        "crowdinContext": "A standard string."
+    },
+    "5220de8f": {
+        "text": "commands:\\n",
+        "crowdinContext": "A standard string."
+    },
+    "7f832cbd": {
+        "text": " <renpy script statement>: run the statement\\n",
+        "crowdinContext": "A standard string."
+    },
+    "71699a84": {
+        "text": " <python expression or statement>: run the expression or statement",
+        "crowdinContext": "A standard string."
+    },
+    "66635dad": {
+        "text": "clear: clear the console history",
+        "crowdinContext": "A standard string."
+    },
+    "109c5b95": {
+        "text": "exit: exit the console",
+        "crowdinContext": "A standard string."
+    },
+    "7a34a79c": {
+        "text": "stack: print the return stack",
+        "crowdinContext": "A standard string."
+    },
+    "1c3170cf": {
+        "text": "load <slot>: loads the game from slot",
+        "crowdinContext": "A standard string."
+    },
+    "671a8c32": {
+        "text": "save <slot>: saves the game in slot",
+        "crowdinContext": "A standard string."
+    },
+    "58888d9a": {
+        "text": "reload: reloads the game, refreshing the scripts",
+        "crowdinContext": "A standard string."
+    },
+    "7ef73224": {
+        "text": "watch <expression>: watch a python expression\\n watch short: makes the representation of traced expressions short (default)\\n watch long: makes the representation of traced expressions as is",
+        "crowdinContext": "A standard string."
+    },
+    "c4f759ff": {
+        "text": "unwatch <expression>: stop watching an expression",
+        "crowdinContext": "A standard string."
+    },
+    "78f8f017": {
+        "text": "unwatchall: stop watching all expressions",
+        "crowdinContext": "A standard string."
+    },
+    "47df8466": {
+        "text": "jump <label>: jumps to label",
+        "crowdinContext": "A standard string."
+    },
+    "a801d99e": {
+        "text": "short: Shorten the representation of objects on the console (default).",
+        "crowdinContext": "A standard string."
+    },
+    "6e720d2e": {
+        "text": "long: Print the full representation of objects on the console.",
+        "crowdinContext": "A standard string."
+    },
+    "f0d900de": {
+        "text": "escape: Enables escaping of unicode symbols in unicode strings.",
+        "crowdinContext": "A standard string."
+    },
+    "8194741c": {
+        "text": "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default).",
+        "crowdinContext": "A standard string."
+    }
+}
