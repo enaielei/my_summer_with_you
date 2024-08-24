@@ -1,3 +1,0 @@
-[[paths]]
-    reference = "locales/templates/**"
-    l10n = "locales/{locale}/**"
